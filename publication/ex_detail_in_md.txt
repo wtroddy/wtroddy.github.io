@@ -1,0 +1,75 @@
++++
+title = "Assessing the Feasibility of a Novel Non-Invasive Sensor for Guiding Wounded Warrior Rehabilitation"
+date = 2018-08-22T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Symsack S.", "Miller M.", "Bach K.", "Sharp W.", "**Roddy W.**", "Isaacson B.", "Pasquina P."]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference publications
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = "At *Military Health System Research Symposium*, MHSRS."
+publication_short = "At *MHSRS*"
+
+# Abstract and optional shortened version.
+
+abstract = "As a result of recent combat operations in Iraq and Afghanistan, the military has been entrusted to care for over 1,700 service members and veterans who have experienced traumatic limb loss, 82.7% of which have been of the lower limb. Beyond the physical and psychological difficulties of adapting to life after limb loss, individuals with amputations are at a higher risk for developing secondary complications, such as joint pain, osteoarthritis, chronic back pain, cardiovascular disease, and phantom limb pain., Optimizing rehabilitation strategies in caring for service members with amputation may not only improve their functional performance, but will also likely mitigate many of these long-term risks. While the Department of Defense has established three Advanced Rehabilitation Centers (ARCs) that specialize in a state-of-the-art interdisciplinary rehabilitative care utilizing the latest technology in prosthetics and assistive devices, further research is needed to help optimize those rehabilitation interventions, particularly as related to establishing individualized guidelines for prescribed intensity, duration, and frequency of exercise regiments. Near infrared spectroscopy (NIRS) is currently used to measure localized muscle oxidative metabolism and hemodynamics during exercise; however, this technology has not yet been assessed for the potential to generate patient-specific rehabilitation regimens. This study was intended to examine the feasibility of wearing the NIRS system during rehabilitation of service members and veterans with lower limb loss (transtibial and transfemoral). "
+
+#abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+# url_pdf = "#"
+# url_preprint = "#"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
++++

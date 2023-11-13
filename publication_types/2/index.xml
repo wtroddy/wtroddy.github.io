@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Will Roddy</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Will Roddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development and Implementation of the Military Treatment Facility Engagement Committee (MTFEC) to support Pragmatic Clinical Trials in the Military Health System</title>
+      <link>/publication/mtfec-milmed-2020/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/mtfec-milmed-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy for Addressing Overlapping Sites in the NIH-DOD-VA Pain Management Collaboratory (PMC)</title>
+      <link>/publication/pmc-overlapping-sites-2020/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/pmc-overlapping-sites-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIH-DoD-VA Pain Management Collaboratory</title>
+      <link>/publication/pmc-painmed-2019/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/pmc-painmed-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
